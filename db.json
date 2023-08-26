@@ -1,0 +1,148 @@
+{
+    "regions": [
+        {
+            "id": "41",
+            "name": "arnasoy",
+            "region": "jizzax",
+            "population": "46 200",
+            "cetral":"g'oliblar",
+            "dencity":"94/",
+            "since":"1975 ",
+            "area": "490",
+            "img": "./images/region/jizzax_arnasoy.png",
+            "info": "Tuman ikki shahar tipidagi aholi punkti ( Gʻoliblar , Gulbahor) va 6 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "42",
+            "name": "baxmal",
+            "region": "jizzax",
+            "population": "157 600",
+            "cetral":"o'smat",
+            "dencity":"85/",
+            "since":"1970 ",
+            "area": "1860",
+            "img": "./images/region/jizzax_baxmal.png",
+            "info": "Tuman 7 ta shahar tipidagi posyolka ( Oʻsmat , Oqtosh, Moʻgʻol, Novqa, Alamli, Tongotar, Baxmal) va 10 ta qishloq fuqarolar yigʻinidan iborat. "
+        },
+        {
+            "id": "43",
+            "name": "do`stlik",
+            "region": "jizzax",
+            "population": "61 800",
+            "cetral":"do`stlik",
+            "dencity":"150/",
+            "since":"1975 ",
+            "area": "450",
+            "img": "./images/region/jizzax_dostlik.png",
+            "info": "Tuman bir shahar ( Doʻstlik ), bitta shahar tipidagi posyolka (Navroʻz) va 7 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "44",
+            "name": "forish",
+            "region": "jizzax",
+            "population": "93 000",
+            "cetral":"bog'don",
+            "dencity":"9,7/",
+            "since":"1935 ",
+            "area": "9 560",
+            "img": "./images/region/jizzax_forish.png",
+            "info": "Tuman ikki shahar tipidagi aholi punkti ( Bogʻdon , Uchquloch ) va 10 qishloq fuqarolar yigʻinidan (Omonkeldi, Darvoza, Arnasoy, Qoraabdol, Egizbuloq, Qizilqum, Forish , Uxum, Garasha, Osmonsoy) iborat."
+        },
+        {
+            "id": "45",
+            "name": "g'allaorol",
+            "region": "jizzax",
+            "population": "173 000",
+            "cetral":"g'allaorol",
+            "dencity":"89/",
+            "since":"1926",
+            "area": "1 950",
+            "img": "./images/region/jizzax_gallaorol.png",
+            "info": "Tuman tarkibiga bir shahar ( Gʻallaorol ), 6 shahar tipidagi aholi punkti ( Marjonbuloq , Qoʻytosh , Lalmikor , Qangliobod , Abdukarim , Chuvilloq ) va 14 qishloq fuqarolar yigʻini ( Gʻoʻbdin , Xonimqoʻrgʻon , Ittifoq , Koʻpchoʻqquloq , Koʻpchoʻqquloq , Koʻpchoʻqbuloq , Qishloq , Qishloq ) kiradi. , Guliston , Buloqboshi , Madaniyat , Mirzabuloq , Moltob , Tozaurugʻ, Mulkush )."
+        },
+        {
+            "id": "46",
+            "name": "sharof rashidov",
+            "region": "jizzax",
+            "population": "223 100",
+            "cetral":"uchtepa",
+            "dencity":"170/",
+            "since":"1926 ",
+            "area": "1 320",
+            "img": "./images/region/jizzax_sharof.png",
+            "info": "Tuman 7 ta shahar tipidagi aholi punkti (Uchtepa, Gandumtosh, Qorayantoq, Qangʻli, Toʻqchiliq, Mulkanlik, Jizzaxlik) va 12 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "47",
+            "name": "mirzachol",
+            "region": "jizzax",
+            "population": "52 200",
+            "cetral":"gagarin",
+            "dencity":"110/",
+            "since":"1967 ",
+            "area": "480",
+            "img": "./images/region/jizzax_mirzachol.png",
+            "info": "Tuman bir shahar ( Gagarin ), 2 shahar tipidagi posyolka (Paxtazor, Mirzadala) va 6 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "48",
+            "name": "paxtakor",
+            "region": "jizzax",
+            "population": "74 900",
+            "cetral":"paxtakor",
+            "dencity":"200/",
+            "since":"1926 ",
+            "area": "380",
+            "img": "./images/region/jizzax_paxtakor.png",
+            "info": "Tuman bir shahar ( Paxtakor ), bitta shahar tipidagi posyolka (Gulzor) va 7 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "49",
+            "name": "yangiobod",
+            "region": "jizzax",
+            "population": "28 300",
+            "cetral":"balandchaqir",
+            "dencity":"39/",
+            "since":"1926 ",
+            "area": "720",
+            "img": "./images/region/jizzax_yangiobod.png",
+            "info": "Tuman ikki shahar tipidagi aholi punkti (Yangiobod va Savot) va 5 qishloq fuqarolar yigʻinidan (Xovos, Sarmich , Xoʻjamushkent, Savot va Havotogʻ) iborat"
+        },
+        {
+            "id": "50",
+            "name": "zomin",
+            "region": "jizzax",
+            "population": "165 100",
+            "cetral":"zomin",
+            "dencity":"62",
+            "since":"1926 ",
+            "area": "2 670",
+            "img": "./images/region/jizzax_zomin.png",
+            "info": "Tuman bir shahar ( Dashtobod ), 6 shahar tipidagi aholi punkti ( Zomin , Yom, Sirgʻali, Pshagʻor) va 9 ta qishloq fuqarolar yigʻinidan iborat. "
+        },
+        {
+            "id": "51",
+            "name":"zafarobod",
+            "region": "jizzax",
+            "population": "50 100",
+            "cetral":"zafarobod",
+            "dencity":"96/",
+            "since":"1973 ",
+            "area": "520",
+            "img": "./images/region/jizzax_zafarobod.png",
+            "info": "Tuman 4 ta shahar tipidagi posyolka ( Zafarobod , Yorqin, Pistalikent, Nurafshon) va 6 ta qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "52",
+            "name": "zarbdor",
+            "region": "jizzax",
+            "population": "86 900",
+            "cetral":"shahrixon",
+            "dencity":"120/",
+            "since":"1979 ",
+            "area": "710",
+            "img": "./images/region/jizzax_zarbdor.png",
+            "info": "Tuman 4 ta shahar tipidagi posyolka ( Zarbdor , Boʻston , Fayzobod, Sharq yulduzi) va 8 ta qishloq fuqarolar yigʻinidan iborat"
+        }
+    ]
+}
